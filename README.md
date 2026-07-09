@@ -1,1 +1,1 @@
-This is a Testing Application.
+This project is a simple project was made by react and tailwing css. It allows users to enter their personal infomation including: Name, Last name, and their age. It ensure that the required information is entered correctly.
